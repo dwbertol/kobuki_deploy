@@ -1,0 +1,9 @@
+[submodule "kobuki_lib"]
+	path = kobuki_lib
+	url = git@github.com:dwbertol/kobuki_lib.git
+[submodule "kobuki-description"]
+	path = kobuki-description
+	url = git@github.com:dwbertol/kobuki-description.git
+[submodule "gz_sim"]
+	path = gz_sim
+	url = git@github.com:dwbertol/gz_sim.git
